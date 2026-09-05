@@ -1,0 +1,15 @@
+# ESPHome generated files and secrets
+.esphome/
+secrets.yaml
+*.bin
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# CAD temporary and generated files
+*.bak
+*.autosave
+*.FCStd1
